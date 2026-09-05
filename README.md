@@ -6,7 +6,7 @@ Public legal-information site for the Android app **Ohmiva**.
 
 The repository is intentionally **not ready for production** yet. The HTML pages contain:
 
-- `RELEASE_REQUIRED_PROVIDER_NAME`
+- `Thomas Stabla`
 - `RELEASE_REQUIRED_PROVIDER_ADDRESS`
 - `RELEASE_REQUIRED_PROVIDER_EMAIL`
 
