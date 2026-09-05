@@ -8,13 +8,13 @@ The repository is intentionally **not ready for production** yet. The HTML pages
 
 - `Thomas Stabla`
 - `Deutschland`
-- `RELEASE_REQUIRED_PROVIDER_EMAIL`
+- `elfb.0809@gmail.com`
 
 and a visible draft banner plus `noindex,nofollow`.
 
 Before enabling this site for the Play Store:
 
-1. replace the remaining public contact placeholder,
+1. verify the public developer email is reachable,
 2. complete the documented legal review of whether a public serviceable postal address is required for this specific free, non-monetized app,
 3. remove the draft banner and robots noindex tags,
 4. enable GitHub Pages from `main` / root,
